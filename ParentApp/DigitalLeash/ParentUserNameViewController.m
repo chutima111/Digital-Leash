@@ -20,7 +20,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    // Test test
     
     self.view.backgroundColor = UIColorFromRGB(0x129AC7);
     self.btnCreate.backgroundColor = UIColorFromRGB(0x5ED29A);
